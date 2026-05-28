@@ -1,0 +1,161 @@
+[
+    {
+        "id": "1",
+        "bank_name": "UOB",
+        "bank_url": "https://www.uob.com.vn/personal/promotions/cards/for-all-you-love.page",
+        "bank_cards": [
+            {
+                "card_id": "1x1",
+                "card_name": "One",
+                "card_types": "CashBack credit",
+                "card_service": "Mastercard",
+                "card_yearly_fee": "1,200,000",
+                "card_categories": [
+                    {
+                        "category_name": "Grab & Dịch vụ vận tải",
+                        "cash_back": "10"
+                    },
+                    {
+                        "category_name": "Đăng ký định kỳ",
+                        "cash_back": "5"
+                    },
+                    {
+                        "category_name": "Bảo hiểm",
+                        "cash_back": "3"
+                    },
+                    {
+                        "category_name": "Mua săm(TTTM, Thời Trang)",
+                        "cash_back": "2"
+                    },
+                    {
+                        "category_name": "Khác",
+                        "cash_back": "0.3"
+                    }
+                ]
+            },
+            {
+                "card_id": "1x2",
+                "card_name": "Lazada",
+                "card_types": "Point credit",
+                "card_service": "Mastercard",
+                "card_yearly_fee": "700,000",
+                "card_categories": [
+                    {
+                        "category_name": "Lazada",
+                        "cash_back": "10"
+                    },
+                    {
+                        "category_name": "Thời trang & Du lịch",
+                        "cash_back": "5"
+                    },
+                    {
+                        "category_name": "Khác",
+                        "cash_back": "1"
+                    }
+                ]
+            },
+            {
+                "card_id": "1x3",
+                "card_name": "PRVI Miles",
+                "card_types": "Point credit",
+                "card_service": "Mastercard",
+                "card_yearly_fee": "1,500,000",
+                "card_categories": [
+                    {
+                        "category_name": "chi tiêu Sing, Malay, Indo",
+                        "cash_back": "3"
+                    },
+                    {
+                        "category_name": "Ngoại tệ, vé máy bay, cửa hàng miễn thuế",
+                        "cash_back": "2"
+                    }
+                ]
+            }
+        ]
+    },
+    {   
+        "id": "2",
+        "bank_name": "HSBC",
+        "bank_url": "https://card.apply.hsbc.com.vn/uu-dai-moi-ngay/vn",
+        "bank_cards": [
+            {
+                "card_id": "2x1",
+                "card_name": "Live +",
+                "card_types": "CashBack credit",
+                "card_service": "Visa",
+                "card_yearly_fee": "800,000",
+                "card_categories": [
+                    {
+                        "category_name": "Ăn uống & Mua sắm",
+                        "cash_back": "6"
+                    },
+                    {
+                        "category_name": "Giải trí",
+                        "cash_back": "1"
+                    },
+                    {
+                        "category_name": "Khác",
+                        "cash_back": "0.3"
+                    }
+                ]
+            },
+            {
+                "card_id": "2x2",
+                "card_name": "CashBack",
+                "card_types": "CashBack credit",
+                "card_service": "Visa",
+                "card_yearly_fee": "800,000",
+                "card_categories": [
+                    {
+                        "category_name": "Siêu thị, Bách hóa, Taxi",
+                        "cash_back": "6"
+                    },
+                    {
+                        "category_name": "Y tế và Giáo dục",
+                        "cash_back": "1"
+                    },
+                    {
+                        "category_name": "Khác",
+                        "cash_back": "0.3"
+                    }
+                ]
+            },
+            {
+                "card_id": "2x3",
+                "card_name": "HSBC LiveFree",
+                "card_types": "credit",
+                "card_service": "Mastercard",
+                "card_yearly_fee": "350,000",
+                "card_categories": []
+            }
+        ]
+    },
+    {   
+        "id": "3",
+        "bank_name": "VPBank",
+        "bank_url": "https://www.vpbank.com.vn/uu-dai",
+        "bank_cards": [
+            {
+                "card_id": "3x1",
+                "card_name": "VPBank Super Shopee",
+                "card_types": "CashBack credit",
+                "card_service": "Visa",
+                "card_yearly_fee": "400,000",
+                "card_categories": [
+                    {
+                        "category_name": "Shopee & Shopee Food",
+                        "cash_back": "10"
+                    },
+                    {
+                        "category_name": "Siêu Thị(Coop, Big C, Lotte Mart, Winmart), Grab, Be",
+                        "cash_back": "2"
+                    },
+                    {
+                        "category_name": "Khác",
+                        "cash_back": "0.1"
+                    }
+                ]
+            }
+        ]
+    }
+]

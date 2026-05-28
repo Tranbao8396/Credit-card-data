@@ -1,0 +1,17 @@
+{
+    "name": "server_sync_data",
+    "version": "1.0.0",
+    "description": "Cai nay dung de dong bo hoa du lieu nan hang cho android app",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Tran Bao",
+    "dependencies": {
+        "@google-cloud/firestore": "^8.6.0",
+        "cors": "^2.8.6",
+        "express": "^5.2.1",
+        "google-auth-library": "^10.6.2"
+    }
+}
